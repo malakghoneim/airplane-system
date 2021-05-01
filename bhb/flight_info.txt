@@ -1,0 +1,8 @@
+20,egypt,london,500
+21,china,america,400
+299,hawaii,bali,800
+2,tokyo,rio,2
+63,england,newyork,8000
+
+
+3333,london,egypt,99999
